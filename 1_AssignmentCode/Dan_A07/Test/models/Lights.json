@@ -1,0 +1,182 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.36",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_lights_punctual"
+    ],
+    "extensionsRequired" : [
+        "KHR_lights_punctual"
+    ],
+    "extensions" : {
+        "KHR_lights_punctual" : {
+            "lights" : [
+                {
+                    "color" : [
+                        0.681277871131897,
+                        1,
+                        0.9654425978660583
+                    ],
+                    "intensity" : 1.8,
+                    "type" : "point",
+                    "name" : "Light"
+                },
+                {
+                    "color" : [
+                        0.681277871131897,
+                        1,
+                        0.9654425978660583
+                    ],
+                    "intensity" : 1.8,
+                    "type" : "point",
+                    "name" : "Light.001"
+                },
+                {
+                    "color" : [
+                        0.681277871131897,
+                        1,
+                        0.9654425978660583
+                    ],
+                    "intensity" : 1.8,
+                    "type" : "point",
+                    "name" : "Light.002"
+                },
+                {
+                    "color" : [
+                        1,
+                        0.9,
+                        0.85
+                    ],
+                    "intensity" : 1,
+                    "type" : "directional",
+                    "name" : "Sun"
+                },
+                {
+                    "color" : [
+                        1,
+                        1,
+                        1
+                    ],
+                    "intensity" : 4.2,
+                    "spot" : {
+                        "innerConeAngle" : 0.4591524628390111,
+                        "outerConeAngle" : 0.5401793718338013
+                    },
+                    "type" : "spot",
+                    "name" : "Spot"
+                }
+            ]
+        }
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 0
+                }
+            },
+            "name" : "Light",
+            "rotation" : [
+                -0.2841663062572479,
+                0.7269423604011536,
+                0.34203392267227173,
+                0.5232754349708557
+            ],
+            "translation" : [
+                3.278141975402832,
+                2.9545438289642334,
+                -6.274837017059326
+            ]
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 1
+                }
+            },
+            "name" : "Light.001",
+            "rotation" : [
+                -0.2841663062572479,
+                0.7269423604011536,
+                0.34203392267227173,
+                0.5232754349708557
+            ],
+            "translation" : [
+                0.01860114187002182,
+                2.9545438289642334,
+                -6.274837017059326
+            ]
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 2
+                }
+            },
+            "name" : "Light.002",
+            "rotation" : [
+                -0.2841663062572479,
+                0.7269423604011536,
+                0.34203392267227173,
+                0.5232754349708557
+            ],
+            "translation" : [
+                -3.2736990451812744,
+                2.9545438289642334,
+                -6.274837017059326
+            ]
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 3
+                }
+            },
+            "name" : "Sun",
+            "rotation" : [
+                -0.3960249125957489,
+                0.1478610783815384,
+                -0.1478610783815384,
+                0.8941132426261902
+            ],
+            "translation" : [
+                3.6413424015045166,
+                3.3561453819274902,
+                1.1169260740280151
+            ]
+        },
+        {
+            "extensions" : {
+                "KHR_lights_punctual" : {
+                    "light" : 4
+                }
+            },
+            "name" : "Spot",
+            "rotation" : [
+                -0.4086896479129791,
+                -0.21177199482917786,
+                0.18902988731861115,
+                0.8674059510231018
+            ],
+            "translation" : [
+                -5.231395721435547,
+                4.960061073303223,
+                2.542616605758667
+            ]
+        }
+    ]
+}

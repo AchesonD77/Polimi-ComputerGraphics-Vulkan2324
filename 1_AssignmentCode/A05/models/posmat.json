@@ -1,0 +1,921 @@
+{
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Spherer1",
+            "scale" : [
+                1.9232940673828125,
+                1.9232940673828125,
+                1.9232940673828125
+            ],
+            "translation" : [
+                0,
+                6.2193145751953125,
+                -3.511122703552246
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "Spherer05.001",
+            "scale" : [
+                1.5313470363616943,
+                1.5313470363616943,
+                1.5313470363616943
+            ],
+            "translation" : [
+                0,
+                5.54594087600708,
+                -5.330530643463135
+            ]
+        },
+        {
+            "mesh" : 2,
+            "name" : "Spherer025.002",
+            "translation" : [
+                0.6010640859603882,
+                6.248798847198486,
+                -5.216784477233887
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Spherer025.003",
+            "translation" : [
+                -0.6010640263557434,
+                6.248798847198486,
+                -5.216784477233887
+            ]
+        },
+        {
+            "mesh" : 4,
+            "name" : "Spherer025.004",
+            "rotation" : [
+                -0.33133959770202637,
+                0,
+                0,
+                0.9435115456581116
+            ],
+            "scale" : [
+                1,
+                1,
+                0.4866461157798767
+            ],
+            "translation" : [
+                1.2361506223678589,
+                7.190087795257568,
+                -4.490971088409424
+            ]
+        },
+        {
+            "mesh" : 5,
+            "name" : "Spherer025.005",
+            "rotation" : [
+                -0.33133959770202637,
+                0,
+                0,
+                0.9435115456581116
+            ],
+            "scale" : [
+                1,
+                1,
+                0.4866461157798767
+            ],
+            "translation" : [
+                -1.2361500263214111,
+                7.190087795257568,
+                -4.490971088409424
+            ]
+        },
+        {
+            "mesh" : 6,
+            "name" : "Cuber2",
+            "rotation" : [
+                0.18699267506599426,
+                0,
+                0,
+                0.9823613166809082
+            ],
+            "scale" : [
+                1.1978073120117188,
+                1.3495107889175415,
+                2.176406145095825
+            ],
+            "translation" : [
+                0,
+                5.023989677429199,
+                -1.224810242652893
+            ]
+        },
+        {
+            "mesh" : 7,
+            "name" : "Cuber2.001",
+            "rotation" : [
+                -0.032285965979099274,
+                0,
+                0,
+                0.9994786977767944
+            ],
+            "scale" : [
+                1.4266092777252197,
+                1.2593837976455688,
+                2.176406145095825
+            ],
+            "translation" : [
+                0,
+                4.658696174621582,
+                1.2172232866287231
+            ]
+        },
+        {
+            "mesh" : 8,
+            "name" : "Spherer1.006",
+            "rotation" : [
+                0.18179726600646973,
+                0,
+                0,
+                0.9833360910415649
+            ],
+            "scale" : [
+                1.4762685298919678,
+                1.2155953645706177,
+                1.9232940673828125
+            ],
+            "translation" : [
+                0,
+                3.9166715145111084,
+                -2.025019645690918
+            ]
+        },
+        {
+            "mesh" : 9,
+            "name" : "Cuber1.002",
+            "rotation" : [
+                0.23222492635250092,
+                0,
+                0,
+                0.9726621508598328
+            ],
+            "scale" : [
+                2.033064365386963,
+                2.75113582611084,
+                1.4581459760665894
+            ],
+            "translation" : [
+                0,
+                4.458308696746826,
+                3.3314833641052246
+            ]
+        },
+        {
+            "mesh" : 10,
+            "name" : "Cylinder",
+            "rotation" : [
+                -0.215228870511055,
+                -0.007125766947865486,
+                0.03231334686279297,
+                0.9760028719902039
+            ],
+            "scale" : [
+                0.5317854285240173,
+                1.292935848236084,
+                0.5317854285240173
+            ],
+            "translation" : [
+                1.1268250942230225,
+                2.923213481903076,
+                -2.1883273124694824
+            ]
+        },
+        {
+            "mesh" : 11,
+            "name" : "Cylinder.001",
+            "rotation" : [
+                -0.215228870511055,
+                0.007125751115381718,
+                -0.03231331706047058,
+                0.9760028719902039
+            ],
+            "scale" : [
+                0.5317854285240173,
+                1.292935848236084,
+                0.5317854285240173
+            ],
+            "translation" : [
+                -1.126829981803894,
+                2.923213481903076,
+                -2.1883273124694824
+            ]
+        },
+        {
+            "mesh" : 12,
+            "name" : "Cylinder.002",
+            "rotation" : [
+                0.07910135388374329,
+                -0.018091676756739616,
+                0.005813442636281252,
+                0.9966854453086853
+            ],
+            "scale" : [
+                0.45848938822746277,
+                1.1147302389144897,
+                0.458489328622818
+            ],
+            "translation" : [
+                1.2407790422439575,
+                1.1961922645568848,
+                -1.8278560638427734
+            ]
+        },
+        {
+            "mesh" : 13,
+            "name" : "Cylinder.003",
+            "rotation" : [
+                0.07926224172115326,
+                -0.018782643601298332,
+                -0.002883934648707509,
+                0.9966726899147034
+            ],
+            "scale" : [
+                0.45848938822746277,
+                1.1147302389144897,
+                0.4584893584251404
+            ],
+            "translation" : [
+                -1.240779995918274,
+                1.1961922645568848,
+                -1.8278560638427734
+            ]
+        },
+        {
+            "mesh" : 14,
+            "name" : "Cylinder.004",
+            "rotation" : [
+                -0.34065303206443787,
+                -0.0028515709564089775,
+                0.03296661004424095,
+                0.9396066069602966
+            ],
+            "scale" : [
+                0.5317853689193726,
+                0.9723377823829651,
+                0.5317854285240173
+            ],
+            "translation" : [
+                1.1347050666809082,
+                2.318974018096924,
+                3.0538601875305176
+            ]
+        },
+        {
+            "mesh" : 15,
+            "name" : "Cylinder.005",
+            "rotation" : [
+                0.19362056255340576,
+                -0.018641794100403786,
+                0.0036862504202872515,
+                0.9808924198150635
+            ],
+            "scale" : [
+                0.45848938822746277,
+                0.9991857409477234,
+                0.458489328622818
+            ],
+            "translation" : [
+                1.2407790422439575,
+                1.0982074737548828,
+                3.2836849689483643
+            ]
+        },
+        {
+            "mesh" : 16,
+            "name" : "Cylinder.006",
+            "rotation" : [
+                -0.34116795659065247,
+                0.018952876329421997,
+                -0.02712414599955082,
+                0.9394198060035706
+            ],
+            "scale" : [
+                0.5317853689193726,
+                0.9723377823829651,
+                0.5317854285240173
+            ],
+            "translation" : [
+                -1.1347099542617798,
+                2.318974018096924,
+                3.0538601875305176
+            ]
+        },
+        {
+            "mesh" : 17,
+            "name" : "Cylinder.007",
+            "rotation" : [
+                0.19362083077430725,
+                -0.018644265830516815,
+                0.0036737348418682814,
+                0.9808924794197083
+            ],
+            "scale" : [
+                0.45848938822746277,
+                0.9991857409477234,
+                0.4584893584251404
+            ],
+            "translation" : [
+                -1.240779995918274,
+                1.0982074737548828,
+                3.2836849689483643
+            ]
+        },
+        {
+            "mesh" : 18,
+            "name" : "Spherer1.001",
+            "rotation" : [
+                0.28562137484550476,
+                0,
+                0,
+                0.9583425521850586
+            ],
+            "scale" : [
+                1.6059142351150513,
+                1.2155953645706177,
+                1.023836612701416
+            ],
+            "translation" : [
+                0,
+                3.4702649116516113,
+                2.5305750370025635
+            ]
+        },
+        {
+            "mesh" : 19,
+            "name" : "Cuber05",
+            "scale" : [
+                2.131181240081787,
+                1,
+                2.807828187942505
+            ],
+            "translation" : [
+                -1.2574700117111206,
+                0.24496203660964966,
+                -2.3189737796783447
+            ]
+        },
+        {
+            "mesh" : 20,
+            "name" : "Cuber05.001",
+            "scale" : [
+                2.131181240081787,
+                1,
+                2.807828187942505
+            ],
+            "translation" : [
+                1.2574700117111206,
+                0.24496203660964966,
+                -2.3189737796783447
+            ]
+        },
+        {
+            "mesh" : 21,
+            "name" : "Cuber05.002",
+            "scale" : [
+                2.131181240081787,
+                1,
+                2.807828187942505
+            ],
+            "translation" : [
+                -1.2574700117111206,
+                0.24496203660964966,
+                2.8911397457122803
+            ]
+        },
+        {
+            "mesh" : 22,
+            "name" : "Cuber05.003",
+            "scale" : [
+                2.131181240081787,
+                1,
+                2.807828187942505
+            ],
+            "translation" : [
+                1.2574700117111206,
+                0.24496203660964966,
+                2.8911397457122803
+            ]
+        },
+        {
+            "mesh" : 23,
+            "name" : "Cone",
+            "rotation" : [
+                0.9680848717689514,
+                0,
+                0,
+                0.25062277913093567
+            ],
+            "scale" : [
+                0.4449039101600647,
+                1.5339841842651367,
+                0.4449039101600647
+            ],
+            "translation" : [
+                0,
+                3.7279932498931885,
+                4.907475471496582
+            ]
+        },
+        {
+            "mesh" : 24,
+            "name" : "Cone.001",
+            "rotation" : [
+                0.8415012359619141,
+                0,
+                0,
+                0.5402552485466003
+            ],
+            "scale" : [
+                0.2826818525791168,
+                0.9746587872505188,
+                0.28268182277679443
+            ],
+            "translation" : [
+                0,
+                2.1928977966308594,
+                6.409909725189209
+            ]
+        },
+        {
+            "mesh" : 25,
+            "name" : "Spherer05.002",
+            "scale" : [
+                0.712572455406189,
+                0.6396726369857788,
+                0.9463017582893372
+            ],
+            "translation" : [
+                0,
+                1.8388488292694092,
+                7.521810054779053
+            ]
+        },
+        {
+            "mesh" : 26,
+            "name" : "Plane",
+            "scale" : [
+                87.65962219238281,
+                87.65962219238281,
+                87.65962219238281
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material.001",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.34932616353034973,
+                    0.060030803084373474,
+                    0.007889139465987682,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material.002",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material.004",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.02313799411058426,
+                    0.7725469470024109,
+                    0.8000000715255737,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material.003",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    0.6871247291564941,
+                    0.421189546585083,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material.005",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.21651318669319153,
+                    0.14367593824863434,
+                    0.05872444435954094,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Sphere",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 15,
+                        "NORMAL" : 16,
+                        "TEXCOORD_0" : 17
+                    },
+                    "indices" : 11,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 18,
+                        "NORMAL" : 19,
+                        "TEXCOORD_0" : 20
+                    },
+                    "indices" : 11,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 21,
+                        "NORMAL" : 22,
+                        "TEXCOORD_0" : 23
+                    },
+                    "indices" : 24,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 25,
+                        "NORMAL" : 26,
+                        "TEXCOORD_0" : 27
+                    },
+                    "indices" : 24,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.006",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 28,
+                        "NORMAL" : 29,
+                        "TEXCOORD_0" : 30
+                    },
+                    "indices" : 3,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 31,
+                        "NORMAL" : 32,
+                        "TEXCOORD_0" : 33
+                    },
+                    "indices" : 24,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 34,
+                        "NORMAL" : 35,
+                        "TEXCOORD_0" : 36
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 38,
+                        "NORMAL" : 39,
+                        "TEXCOORD_0" : 40
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.002",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 41,
+                        "NORMAL" : 42,
+                        "TEXCOORD_0" : 43
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 44,
+                        "NORMAL" : 45,
+                        "TEXCOORD_0" : 46
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.004",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 47,
+                        "NORMAL" : 48,
+                        "TEXCOORD_0" : 49
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 50,
+                        "NORMAL" : 51,
+                        "TEXCOORD_0" : 52
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.006",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 53,
+                        "NORMAL" : 54,
+                        "TEXCOORD_0" : 55
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cylinder.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 56,
+                        "NORMAL" : 57,
+                        "TEXCOORD_0" : 58
+                    },
+                    "indices" : 37,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 59,
+                        "NORMAL" : 60,
+                        "TEXCOORD_0" : 61
+                    },
+                    "indices" : 3,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cube.003",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 62,
+                        "NORMAL" : 63,
+                        "TEXCOORD_0" : 64
+                    },
+                    "indices" : 24,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.005",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 65,
+                        "NORMAL" : 66,
+                        "TEXCOORD_0" : 67
+                    },
+                    "indices" : 24,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.006",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 68,
+                        "NORMAL" : 69,
+                        "TEXCOORD_0" : 70
+                    },
+                    "indices" : 24,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cube.007",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 71,
+                        "NORMAL" : 72,
+                        "TEXCOORD_0" : 73
+                    },
+                    "indices" : 24,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Cone",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 74,
+                        "NORMAL" : 75,
+                        "TEXCOORD_0" : 76
+                    },
+                    "indices" : 77,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Cone.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 78,
+                        "NORMAL" : 79,
+                        "TEXCOORD_0" : 80
+                    },
+                    "indices" : 77,
+                    "material" : 3
+                }
+            ]
+        },
+        {
+            "name" : "Sphere.008",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 81,
+                        "NORMAL" : 82,
+                        "TEXCOORD_0" : 83
+                    },
+                    "indices" : 7,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Plane",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 84,
+                        "NORMAL" : 85,
+                        "TEXCOORD_0" : 86
+                    },
+                    "indices" : 87,
+                    "material" : 4
+                }
+            ]
+        }
+    ]
+}

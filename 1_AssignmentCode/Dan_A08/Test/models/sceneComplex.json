@@ -1,0 +1,34 @@
+{
+	"models": [
+		{"id": "ax",  "VD": "VD1",  "model": "models/axis.obj",       "format":"OBJ"},
+		{"id": "pl",  "VD": "VD1",  "model": "models/LargePlane.obj", "format":"OBJ"},
+		{"id": "sph", "VD": "VD2",  "model": "models/Sphere.gltf",    "format":"GLTF"}
+	],
+	"textures": [
+		{"id": "tc",    "texture": "textures/Textures.png"},
+		{"id": "m9a",   "texture": "textures/Metals_09_basecolor.png"},
+		{"id": "m9mra", "texture": "textures/Metals_09_met_rough_ao.png"},
+		{"id": "m9n",   "texture": "textures/Metals_09_normal.png"},
+	],
+	"instances": [
+		{"pipeline": "p1", "elements": [
+			{"id": "ax",   "model": "ax",   "texture": ["tc"],
+			 "transform": [1, 0, 0, 0,
+						   0, 1, 0, 0,
+						   0, 0, 1, 0,
+						   0, 0, 0, 1]},
+			{"id": "pl",   "model": "pl",   "texture": ["tc"],
+			 "transform": [1, 0, 0, 0,
+						   0, 1, 0, -0.1,
+						   0, 0, 1, 0,
+						   0, 0, 0, 1]}
+		]},
+		{"pipeline": "p2", "elements": [
+			{"id": "sph",  "model": "sph",  "texture": ["m9a", "m9mra", "m9n"],
+			 "transform": [1, 0, 0, 0,
+						   0, 1, 0, 3,
+						   0, 0, 1, 0,
+						   0, 0, 0, 1]}
+		]}
+	]
+}
