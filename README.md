@@ -13,7 +13,7 @@ This repository provides a comprehensive guide to the **COMPUTER GRAPHICS** exam
 5. Because of the file size limit, 3 models, Joker2.obj, Spaceshuttle.obj, and vulkan initial source(which you need to download from https://vulkan-tutorial.com/Development_environment) were deleted.
 
 # Some Tips?
-1. In AssignmentCode, it includes all the assignments I did.
+1. In AssignmentCode, it includes all the assignments I did, the name is Dan_A0N, and A0N are the initial version from professor.
 2. In Vulkan_Project, includes a pdf to introduce my project - 'CG-The Dark Knight's Quest for Justice', I use 5 different shaders to fulfill different Illumination effect, reflection effect, illumination color...
 3. I downloaded obj and texture from https://rigmodels.com/index.php#google_vignette, it is a good website to download what OBJs you want.
 4. For the obj you downloaded, you need to check the code of obj if it has vn, **if the code of obj doesn't have VN, we can not use it in our vulkan project.**
