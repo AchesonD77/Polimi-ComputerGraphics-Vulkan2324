@@ -20,7 +20,6 @@ This repository provides a comprehensive guide to the **COMPUTER GRAPHICS** exam
 5. For the obj you downloaded, you need to check the code of obj if it has vn, **if the code of obj doesn't have VN, we can not use it in our vulkan project.**
 6. In **5_ScreenshotOfProjects**, I uploaded the screenshots from my project.
 7. **About the project, you can directly see this PDF file.**[CG-The Dark Knight's Quest for Justice.pdf](2_Vulkan_Project/CG-The%20Dark%20Knight's%20Quest%20for%20Justice.pdf)
-)
 
 # Contents
 1. [1_AssignmentCode](1_AssignmentCode)
