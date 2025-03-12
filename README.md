@@ -23,6 +23,12 @@
 4. I downloaded the OBJ and texture from https://rigmodels.com/index.php#google_vignette. It is a good website to download the OBJs you want and which you can use in our vulkan and project.
 5. For the obj you downloaded, you need to check the code of obj if it has vn, **if the code of obj doesn't have VN, we can not use it in our vulkan project.**
 6. In **5_ScreenshotOfProjects**, I uploaded the screenshots from my project.
+7. When you modify or run shaders, **remember to complie GLSL source code (e.g., Shader.frag and Shader.vert) into its corresponding SPIR-V binary (e.g., ShaderFrag.spv and ShaderVert.spv) in your teminal,** Spi-v is an intermediate language primarily used by modern graphics apis such as Vulkan to load and use these shader files at runtime.
+```bash
+glslangValidator -V Shader.vert -o ShaderVert.spv
+glslangValidator -V Shader.frag -o ShaderFrag.spv
+```
+
 
 # :pushpin: Contents
 1. [1_AssignmentCode](1_AssignmentCode)
