@@ -581,7 +581,7 @@ class E09 : public BaseProject {
         glm::mat4 rotationBoatLeft = glm::rotate(glm::mat4(1.0f), glm::radians(90.0f), glm::vec3(0, 1, 0)); // front and back with camera
         glm::mat4 rotationBoat = rotationCamera * rotationBoatLeft;
         // adjust sacle for FP perspetive - AK47
-        glm::mat4 scaleBoat = glm::scale(glm::mat4(1.0f), glm::vec3(0.006f)); // 根据需要调整缩放
+        glm::mat4 scaleBoat = glm::scale(glm::mat4(1.0f), glm::vec3(0.006f));
         // Merging transformation matrices
         blinnUboBoat.mMat = translationBoat * rotationBoat * scaleBoat;
         blinnUboBoat.mvpMat = ViewPrj * blinnUboBoat.mMat;

@@ -7,12 +7,12 @@
 # :video_game: About the Game project
 - In this game, you can move in the first person perspective and help Batman find the enemy Joker in a dark environment (a parking lot with multiple cars).  
 - You use a flashlight and an AK47 gun. The flashlight has multiple colors and reflects different effects in different scenes.  
-- When you find the clown, press 9 to capture the clown and teleport to the next scene, the rocket Launch station, where you will ride the rocket away and the entire game is over.  
+- When you find the clown, press 0 to capture the clown and teleport to the next scene, the rocket Launch station, where you will ride the rocket away and the entire game is over.  
 - **About the project, you can directly see this PDF file.**[CG-The Dark Knight's Quest for Justice.pdf](2_Vulkan_Project/CG-The%20Dark%20Knight's%20Quest%20for%20Justice.pdf)
 
 # :pizza: My voice!
 - My exam date was the 14th of January in 2025. I have been preparing for this exam from the 14th of November to the 26th of December. **(43 days, Half of each day)**
-- I wrote this repository beginning on the 7th of February, 2025 and end at XXth of March. **(4 days)**
+- I wrote this repository beginning on the 7th of February, 2025, and ending on the 14th of March. **(7 days)**
 - I scored 30 points in this course, 8 points for assignments, and 22+ points for the project.
 - Because of the file size limit, 3 models, Joker2.obj, Spaceshuttle.obj, and vulkan initial source(which you need to download from https://vulkan-tutorial.com/Development_environment) were deleted.
 
@@ -28,7 +28,6 @@
 glslangValidator -V Shader.vert -o ShaderVert.spv
 glslangValidator -V Shader.frag -o ShaderFrag.spv
 ```
-
 
 # :pushpin: Contents
 1. [1_AssignmentCode](1_AssignmentCode)
